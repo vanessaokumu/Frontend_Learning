@@ -7,4 +7,5 @@
 * Adding an image changer
 * Adding a personalised welcome message
 * A user name of null?
+
 * Webpack
